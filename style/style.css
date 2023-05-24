@@ -7,12 +7,12 @@
     scroll-behavior: smooth;
 }
 
-body{
+/* body{
     background-color:black !important;
     color:rgb(0,255,0) !important;
     font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace !important;
 }
-
+*/
 header .navbar-expand-lg{
     height:7rem !important;
     background-color:black !important;
@@ -26,4 +26,14 @@ header .navbar-expand-lg .container-fluid .nav-brand .logo-heading{
 header nav ul .nav-item .nav-link{
     color:rgb(0, 255, 0) !important;
     background-color: black !important;
+} /* */
+
+/* Logo */
+img[alt='Logo']{
+    width:5rem;
+}
+
+/* Body */
+body{
+    text-align: center !important;
 }
